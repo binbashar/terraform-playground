@@ -2,5 +2,5 @@
 Terraform Snippets, Examples and Reference Code
 
 # Maps
-Here you may find useful reference code that shows how to manipulate maps.
-[Check out the examples](maps-and-lists/examples.tf)
+These examples show how you to manipulate maps to transform them into simplified structures that might easier to iterate on.
+[Check out the examples here](maps-and-lists/examples.tf)
