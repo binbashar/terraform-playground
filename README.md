@@ -7,4 +7,4 @@ This repo intends to be a reference code created out of real life use cases, par
 # Index
 
 ## Maps and List
-These examples show how you to manipulate maps to transform them into simplified structures that might easier to iterate on. [Read more](maps-and-lists/README.md)
+These examples show how you to manipulate maps to transform them into simplified structures that might easier to iterate on. [Read more](maps-and-lists/)
